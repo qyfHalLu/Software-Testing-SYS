@@ -1,3 +1,9 @@
 [submodule "mbed-os"]
 	path = mbed-os-example-blinky/mbed-os
 	url = https://github.com/ARMmbed/mbed-os.git
+[submodule "Test-libraries/libboxzoo"]
+	path = Test-libraries/libboxzoo
+	url = https://github.com/valuta1995/libboxzoo.git
+[submodule "Test-libraries/bugzoo-u8g2"]
+	path = Test-libraries/bugzoo-u8g2
+	url = https://github.com/valuta1995/bugzoo-u8g2.git
